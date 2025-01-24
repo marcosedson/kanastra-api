@@ -1,8 +1,8 @@
-# **Kanastra API - Documentação**
+# **Process File API - Documentação**
 
 ## 📖 **Visão Geral**
 
-A **Kanastra API** é uma aplicação projetada para processar arquivos CSV de maneira assíncrona e confiável. Este projeto utiliza o **Kafka** como broker de mensagens e foi desenvolvido utilizando **Golang**, com o auxílio do framework **Gin**. A arquitetura da aplicação foi projetada para suportar validação, integração com Kafka, geração de boletos e envio de e-mails para notificações automáticas.
+A **Process File API** é uma aplicação projetada para processar arquivos CSV de maneira assíncrona e confiável. Este projeto utiliza o **Kafka** como broker de mensagens e foi desenvolvido utilizando **Golang**, com o auxílio do framework **Gin**. A arquitetura da aplicação foi projetada para suportar validação, integração com Kafka, geração de boletos e envio de e-mails para notificações automáticas.
 
 ---
 
